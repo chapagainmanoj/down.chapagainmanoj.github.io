@@ -33,9 +33,9 @@ kramdown:
 ####################################
 #
 owner:
-  name: Manoj chapagain
-  avatar: logos/logo.png
-  job: "A jekyll theme"
+  name: mane's lab
+  avatar: logos/logo_transparent.png
+  job: "Manoj Chapagain"
   bio: "A simple and awesome blog by me."
   email: chapagainmanoj35@gmail.com
   disqus-shortname:
