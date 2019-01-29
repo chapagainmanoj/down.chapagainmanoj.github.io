@@ -33,8 +33,8 @@ kramdown:
 ####################################
 #
 owner:
-  name: Manoj
-  avatar: leonids-logo.png
+  name: Manoj chapagain
+  avatar: logos/logo.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog by me."
   email:
