@@ -37,7 +37,7 @@ owner:
   avatar: logos/logo.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog by me."
-  email:
+  email: chapagainmanoj35@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: chapagainmanoj
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
