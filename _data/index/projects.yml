@@ -2,3 +2,13 @@
   descr: "React-Django project seed with Docker, Nginx and Postgres."
   image: pong.png
   github: https://github.com/chapagainmanoj/potato-seed
+
+- name: semantic-calander
+  descr: "calander for react app. semantic-ui styles"
+  image: pong.png
+  github: https://github.com/chapagainmanoj/semantic-calander
+
+- name: dialog_builder
+  descr: "a python module that automates dialogflow agent build"
+  image: pong.png
+  github: https://github.com/chapagainmanoj/semantic-calander
