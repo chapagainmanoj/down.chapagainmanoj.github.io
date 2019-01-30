@@ -39,7 +39,7 @@ owner:
   bio: "A simple and awesome blog by me."
   email: chapagainmanoj35@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: __man0j
   facebook: #username
   google:
     plus: #username
@@ -55,6 +55,7 @@ owner:
   skype: #username
   xing: #username
   instagram: mane.1990
+  # lichess: asdf
   lastfm: #username
   tumblr: #username
   pinterest: #username
