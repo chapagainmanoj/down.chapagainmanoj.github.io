@@ -1,9 +1,12 @@
 ---
 layout: post
 title: I smell bullshit.
-excerpt: "I had never indulged myself to write before. I don't know why I never concerned writing.  It may be the feeling that it will be a blend of my biased sentiments and bullshit. Bullshiting is what I fear must, its anything other than straightforward truth. Trust me, bullshit is more dangerous than a lie."
+excerpt: "Bullshiting is what I fear must, its anything other than straightforward truth. Trust me, bullshit is more dangerous than a lie."
 categories: [random]
 comments: true
+image:
+  feature: https://i.pinimg.com/originals/1f/99/56/1f99563e19d44dff6e1baa3a6cc58106.jpg
+  credit: someone google knows
 ---
 
 
