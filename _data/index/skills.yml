@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Motivation, Fun, Javascript, HTML/CSS, Docker, Python
-percentage: 90, 85, 80, 60, 60, 60
+aspects: Fun, DevOps, React, Node.js, Docker, Python
+percentage: 85, 60, 80, 60, 60, 70
